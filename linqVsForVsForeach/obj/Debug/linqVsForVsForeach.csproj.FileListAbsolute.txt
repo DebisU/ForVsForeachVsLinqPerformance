@@ -1,0 +1,7 @@
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\bin\Debug\linqVsForVsForeach.exe.config
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\bin\Debug\linqVsForVsForeach.exe
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\bin\Debug\linqVsForVsForeach.pdb
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\obj\Debug\linqVsForVsForeach.csprojAssemblyReference.cache
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\obj\Debug\linqVsForVsForeach.csproj.CoreCompileInputs.cache
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\obj\Debug\linqVsForVsForeach.exe
+C:\Users\ex_dperezd\Documents\Projects\linqVsForVsForeach\linqVsForVsForeach\obj\Debug\linqVsForVsForeach.pdb
